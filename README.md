@@ -37,4 +37,4 @@ La version para desktop aun esta en proceso
 
 Que aprendi? 
 
-Fue necesario 
+Fue necesario tener conocimiento en la propiedad flexbox para manipularla correctamente , sin embargo tambien fue un aviso para entender que aun falta estudiar mucho mas los conceptos para tener una mayor agilidad y realizar un mejor proceso 
