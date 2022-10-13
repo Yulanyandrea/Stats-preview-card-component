@@ -5,6 +5,10 @@ Reto numero 2 de make it real
 Este reto consiste en crear un diseño de pagina web para movile y desktop 
 
 
+![desktoppreview](https://user-images.githubusercontent.com/79812118/195643449-661d2241-8fa3-4cc8-a914-1966bf29bc75.jpg)
+
+
+
 
 El desafío es construir este componente de la tarjeta y lograr que se parezca lo más posible al diseño.
 
