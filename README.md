@@ -32,14 +32,14 @@ Tambien se hizo uso de herramientas para entender el color y su teoria
 
 https://www.colorhexa.com/1f003f
 
-La imagen final para version movil aun esta en proceso: 
+Imagen final para version movil : 
+
+![movile_Preview](https://user-images.githubusercontent.com/79812118/195739477-2e46f7e4-13ea-40ff-9230-ba74a4d080a9.jpg)
 
 
-![movile2](https://user-images.githubusercontent.com/79812118/195491278-ed46ac3a-10d2-451a-b217-3e64cd154c04.jpg)
+Version para desktop final:
 
-
-La version para desktop aun esta en proceso 
-![DESKTOP](https://user-images.githubusercontent.com/79812118/195490973-9d65bfd8-5308-4a05-9de5-13bc540d0e1f.jpg)
+![desktop_Preview](https://user-images.githubusercontent.com/79812118/195739528-f17f7390-768d-4b51-8f13-bae400eb6f7f.jpg)
 
 
 
