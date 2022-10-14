@@ -5,6 +5,10 @@ Reto numero 2 de make it real
 Este reto consiste en crear un diseño de pagina web para movile y desktop 
 
 
+![desktoppreview](https://user-images.githubusercontent.com/79812118/195643449-661d2241-8fa3-4cc8-a914-1966bf29bc75.jpg)
+
+
+
 
 El desafío es construir este componente de la tarjeta y lograr que se parezca lo más posible al diseño.
 
@@ -28,12 +32,16 @@ Tambien se hizo uso de herramientas para entender el color y su teoria
 
 https://www.colorhexa.com/1f003f
 
-La imagen final para version movil fue la siguiente: 
+La imagen final para version movil aun esta en proceso: 
 
 
-![MOVILE](https://user-images.githubusercontent.com/79812118/195470293-ab4f025e-8b19-492f-b39a-ebaaab710caa.jpg)
+![movile2](https://user-images.githubusercontent.com/79812118/195491278-ed46ac3a-10d2-451a-b217-3e64cd154c04.jpg)
+
 
 La version para desktop aun esta en proceso 
+![DESKTOP](https://user-images.githubusercontent.com/79812118/195490973-9d65bfd8-5308-4a05-9de5-13bc540d0e1f.jpg)
+
+
 
 Que aprendi? 
 
