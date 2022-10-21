@@ -18,17 +18,24 @@ body{
     display: flex;
     flex-direction: column;
     background-color:#130025;
+    border-radius: 15px;
 }
 
 .image{
     background-color: #b400ff;
+    /* border-radius: 15px; */
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
 }
 
 .image img{
     width: 100%;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     filter: opacity(0.5);
     height: 100%; 
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 0px;
 }
 
 .text{
@@ -88,6 +95,18 @@ body{
         display: flex;
         flex-direction: row-reverse;
         margin-top: 10%;
+    }
+
+    .image{
+        border-top-left-radius: 0px;
+        border-top-right-radius: 14px;
+        border-bottom-right-radius:14px;
+    }
+
+    .image img{
+        border-top-left-radius: 0px;
+        border-top-right-radius: 14px;
+        border-bottom-right-radius: 14px;
     }
 
     .text{
